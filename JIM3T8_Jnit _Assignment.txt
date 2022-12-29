@@ -1,0 +1,16 @@
+1. Write a test case to verify that a DAO method called "save" correctly saves an student object to a database.
+
+2. Write a test case to verify that a DAO method called "getById" correctly retrieves an object from a database based on its ID.
+
+3. Write a test case to verify that a DAO method called "update" correctly updates an object in a database.
+
+4. Write a test case to verify that a DAO method called "delete" correctly removes an object from a database.
+
+5. Write a test case to verify that a DAO method called "getAll" correctly retrieves all objects of a certain type from a database.
+
+6. Write a test case to verify that a DAO method called "findByName" correctly retrieves an object from a database based on a search term.
+
+7. Write a test case to verify that a DAO method called "search" correctly retrieves objects from a database based on multiple search criteria.
+
+8. Write a test case to verify that a DAO method called "count" correctly counts the number of objects of a certain type in a database.
+
